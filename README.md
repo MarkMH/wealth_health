@@ -7,9 +7,8 @@ This is a replication study of [Schwandt, H. (2018). Wealth shocks and health ou
 https://www.rand.org/well-being/social-and-behavioral-policy/centers/aging/dataprod/hrs-data.html 
 </p>
 
-The project consists of two files: 
-
 ---
+
 
 <p align="justify" style="text-align:justify"> 
 1. **UseHomotopy**: This file defines the non-degenerate bimatrix game to be solved. In the example below, each player has two strategies, the entries of the matrices are the payoffs of each player for every possible outcome. Please visit my personal website if you have not already, for more details, this is the example Game 2 described there. Solving the game using the homotopy function described below leads to a Nash equilibrium where players A and B both play the first strategy, represented by sigmaH1 and sigmaH2. If the Nash equilibrium reached, would have benn a mixed strategy equilibrium instead, the entries of sigmaH1 and sigmaH2 would be less than one, but both would add up to one.   
