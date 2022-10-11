@@ -50,5 +50,5 @@ Note that for all following variables it applies that a lower value indicates a 
 ---
 
 <p>
-Disclaimer: This is one of my first projects, the coding is very primitive and redundant. Should you like to use it, I strongly advise to improve the style and efficiently before using the coding. 
+Disclaimer: This is one of my first projects, the coding is very primitive and redundant. Should you want to use it, I strongly advise to improve the style and efficiently before using the coding. 
 </p>
